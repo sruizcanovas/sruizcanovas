@@ -8,11 +8,14 @@
 
 ----
 
-## Sobre mi 
+## 👉🏻Sobre mi 
 
 Soy Técnico en Marketing y Publicidad, especializada en **Marketing Digital** y ahora explorando el mundo del **Desarollo de Aplicaciones Web**. 
 Mi meta está en llegar a ser ***Fullstack.***
-## Datos de interés
+ 
+ ----
+ 
+## 📎Datos de interés
 
 - <ins>**Entidad Educativa**</ins>: Centro Integral de Formación Profesional a Distancia "La conservera" - Región de Murcia.
 - <ins>**Nivel Educativo**</ins>: 1º Grado Superior: Técnico Superior en Desarrollo de Aplicaciones Web.
@@ -24,7 +27,7 @@ Mi meta está en llegar a ser ***Fullstack.***
         ✔ Lenguajes de Marcas y Sistemas de Gestión de Información.
         ✔ Entornos de Desarrollo.
 
-## Stack Tecnológico del Curso
+## 💻Stack Tecnológico del Curso
 
 | Lenguajes de programación                |Framewors  | Bases de datos |
 | --------------------------               |:---------:|:-------------: |
@@ -33,6 +36,7 @@ Mi meta está en llegar a ser ***Fullstack.***
 |<p style="text-align: center;">Python     |Django     |Docker          |
 
 
-## RRSS
+## 🌐RRSS
 
 <a href="https://www.linkedin.com/in/silvia-ruiz-c%C3%A1novas-0b85b810a/">![linkedin](https://camo.githubusercontent.com/bbd5a3be2124528ab2064d49356ed845b5f9a05fc79c603e25c76c6601e28b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)</a>
+
